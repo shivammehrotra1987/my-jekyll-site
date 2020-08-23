@@ -1,6 +1,6 @@
 ---
 title: Welcome to Jekyll!
-date: 2020-08-23 19:22:01 Z
+date: 2020-08-23 19:22:00 Z
 categories:
 - jekyll
 - update
@@ -12,6 +12,7 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 Jekyll also offers powerful support for code snippets:
+<a href="http://ec2-3-16-159-160.us-east-2.compute.amazonaws.com:8000/webapps/static/logo.png">logo</a>
 
 {% highlight ruby %}
 def print_hi(name)
